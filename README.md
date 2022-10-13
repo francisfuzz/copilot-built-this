@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# copilot-built-this
+
+This demo repository is featured in this [livestream event](https://www.meetup.com/github/events/289092109/) hosted by [@blackgirlbytes](https://github.com/blackgirlbytes) and yours truly!
+
+We showcase how one could use [GitHub Copilot](https://github.com/features/copilot) to build a _very simple_ web app with Next.js and [Tailwind CSS](https://tailwindcss.com/). ✌️
 
 ## Getting Started
 
