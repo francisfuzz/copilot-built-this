@@ -36,3 +36,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Featured references
+
+- https://nextjs.org/docs/api-reference/next/image
+- https://nextjs.org/docs/api-reference/next.config.js/introduction
+- https://nextjs.org/docs/messages/next-image-unconfigured-host
+- https://tailwindcss.com/docs/box-shadow#adding-an-outer-shadow
+- https://tailwindcss.com/docs/border-radius#rounded-corners
